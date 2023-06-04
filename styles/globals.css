@@ -106,3 +106,7 @@ th {
 table tr:not(:last-of-type) {
   border-bottom: 1px solid #0006;
 }
+
+.valor-nutricional {
+  font-weight: bold;
+}
